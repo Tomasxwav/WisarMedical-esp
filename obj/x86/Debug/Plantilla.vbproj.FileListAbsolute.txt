@@ -1,0 +1,10 @@
+D:\Apss\prueba1\obj\x86\Debug\Plantilla.vbproj.AssemblyReference.cache
+D:\Apss\prueba1\obj\x86\Debug\Plantilla.AgregarCliente.resources
+D:\Apss\prueba1\obj\x86\Debug\Plantilla.AgregarProducto.resources
+D:\Apss\prueba1\obj\x86\Debug\Plantilla.Clientes.resources
+D:\Apss\prueba1\obj\x86\Debug\Plantilla.Inicio.resources
+D:\Apss\prueba1\obj\x86\Debug\Plantilla.Login.resources
+D:\Apss\prueba1\obj\x86\Debug\Plantilla.Productos.resources
+D:\Apss\prueba1\obj\x86\Debug\Plantilla.Ventas.resources
+D:\Apss\prueba1\obj\x86\Debug\Plantilla.vbproj.GenerateResource.cache
+D:\Apss\prueba1\obj\x86\Debug\Plantilla.vbproj.CoreCompileInputs.cache
